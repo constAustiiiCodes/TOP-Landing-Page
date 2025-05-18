@@ -33,6 +33,11 @@ body {
     color: #f9fAF8;
 }
 
+.link-item {
+    margin-right: 8px;
+    text-decoration: none;
+}
+
 .link-item,
 .hero-secondary {
     font-size: 18px;
