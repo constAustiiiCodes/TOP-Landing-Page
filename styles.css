@@ -28,3 +28,10 @@ body {
     color: #e5e7eb;
 }
 
+button {
+    font-size: 18px;
+    width: fit-content;
+    height: auto;
+    background-color: #3882f6;
+    color: #e5e7eb;
+}
