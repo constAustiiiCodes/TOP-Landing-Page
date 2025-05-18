@@ -11,6 +11,7 @@ body {
     background-color: #1f2937;
     padding: 0 15vw;
 }
+
 .navbar {
     align-items: baseline;
 }
@@ -56,3 +57,9 @@ button {
     color: #e5e7eb;
 }
 
+.img {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: slategrey;
+}
