@@ -11,3 +11,13 @@ body {
     background-color: #1f2937;
     padding: 0 15vw;
 }
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero-main{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9fAF8;
+}
