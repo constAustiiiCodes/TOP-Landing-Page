@@ -11,6 +11,17 @@ body {
     background-color: #1f2937;
     padding: 0 15vw;
 }
+.navbar {
+    align-items: baseline;
+}
+
+.navbar,
+.link-container {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
@@ -35,3 +46,4 @@ button {
     background-color: #3882f6;
     color: #e5e7eb;
 }
+
