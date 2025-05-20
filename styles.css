@@ -84,4 +84,6 @@ button {
 .empty-item {
     width: 100px;
     height: 100px;
+    border: 2px #3882f6 solid;
+    border-radius: 15px ;
 }
