@@ -63,3 +63,8 @@ button {
     align-content: center;
     background-color: slategrey;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
