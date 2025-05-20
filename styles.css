@@ -79,6 +79,7 @@ button {
 .empty-container {
     display: flex;
     justify-content: space-around;
+    padding: 0 15vw;
 }
 
 .empty-item {
