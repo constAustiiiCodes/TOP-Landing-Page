@@ -75,3 +75,13 @@ button {
     font-weight: 900;
     color: #1f2937;
 }
+
+.empty-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.empty-item {
+    width: 100px;
+    height: 100px;
+}
