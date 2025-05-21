@@ -1,6 +1,6 @@
-* {
+/* * {
     border: 1px solid #1f2937;
-}
+} */
 
 body {
     font-family: 'Trebuchet MS', sans-serif;
@@ -98,6 +98,7 @@ button {
 
 .subtext-item {
     width: 150px;
+    color: slategrey;
     height: fit-content;
     text-align: center;
 }
