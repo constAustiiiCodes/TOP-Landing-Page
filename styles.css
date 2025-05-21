@@ -108,3 +108,7 @@ button {
     background-color: #e5e7eb;
     padding: 15vh 15vw;
 }
+
+.testimonial * {
+    margin: 0%;
+}
