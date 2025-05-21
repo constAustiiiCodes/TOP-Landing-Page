@@ -93,6 +93,7 @@ button {
     display: flex;
     justify-content: space-around;
     padding: 0 15vw;
+    margin-bottom: 10vh;
 }
 
 .subtext-item {
