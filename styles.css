@@ -111,4 +111,6 @@ button {
 
 .testimonial * {
     margin: 0%;
+    font-style: italic;
+    color: #1f2937;
 }
