@@ -100,3 +100,9 @@ button {
     height: fit-content;
     text-align: center;
 }
+
+.testimonial {
+    background-color: #e5e7eb;
+    padding: 15vh 15vw;
+}
+
