@@ -125,3 +125,10 @@ button {
     font-size: 18px;
     font-weight: bold;
 }
+
+#footer {
+    display: flex;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    justify-content: center;
+}
