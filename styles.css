@@ -1,70 +1,46 @@
-* {
-    border: 1px solid #1f2937;
-}
-
 body {
     font-family: 'Roboto';
     margin: 0%;
 }
 
-.header {
+.hero-section {
     background-color: #1f2937;
-    padding: 0 15vw;
-}
-
-.navbar {
-    align-items: baseline;
-}
-
-.navbar,
-.link-container {
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-}
-
-.header-logo {
-    font-size: 24px;
-    color: #F9FAF8;
+    color: #e5e7eb;
 }
 
 .hero {
+    margin: 10vh 20vw;
+    margin-top: 0;
+}
+
+.navbar {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    width: fit-content;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.hero-main{
-    font-size: 48px;
-    font-weight: 900;
-    color: #f9fAF8;
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 0.75rem;
 }
 
-.link-item {
-    margin-right: 8px;
+.header-link {
     text-decoration: none;
 }
-
-.link-item,
-.hero-secondary {
-    font-size: 18px;
-    color: #e5e7eb;
+.hero-content {
+    display: flex;
 }
 
-button {
-    font-size: 18px;
-    width: fit-content;
-    height: auto;
-    background-color: #3882f6;
-    color: #e5e7eb;
-}
-
-.img {
+.hero-placeholder {
+    border: #e5e7eb dotted 2px;
     display: flex;
     justify-content: center;
-    align-content: center;
-    background-color: slategrey;
+    align-items: center;
+}
+.hero-placeholder p {
+    height: 100px;
+    width: 250px;
 }
 
 .info {
