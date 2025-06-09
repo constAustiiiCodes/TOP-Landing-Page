@@ -57,9 +57,15 @@ body {
 
 button {
     background-color: #3882f6;
-    border-style: none;
     border-radius: 5px;
+    border-style: solid;
     color: #e5e7eb;
+    padding: 10px 30px;
+
+}
+
+.btn1 {
+    border-style: none;
 }
 
 .hero-placeholder {
@@ -136,6 +142,25 @@ button {
 .testimonial-author {
     font-size: 18px;
     font-weight: bold;
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10vh 15vw;
+    background-color: #3882f6;
+    border-radius: 15px;
+    padding: 4vh 0;
+}
+
+.cta-text {
+    color: #e5e7eb;
+
+}
+
+.btn2 {
+    border-color: #e5e7eb;
 }
 
 #footer {
